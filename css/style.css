@@ -1,4 +1,7 @@
 body {
   background-color: lavender;
-  font-family: "Raleway", sans-serif;
+  font-family: sans-serif;
+}
+.myDev {
+  font-size: 25px;
 }
